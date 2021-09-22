@@ -1,0 +1,17 @@
+{
+  "name": "CLI_RPC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "jest": "^27.2.1",
+    "nodemon": "^1.18.11"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
