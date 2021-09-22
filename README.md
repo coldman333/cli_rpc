@@ -1,5 +1,5 @@
 # Revert Polish Calculator
-###A high-level description of your solution
+### A high-level description of your solution
 - OOP oriented architectural main class Calculator
   - CLI UI  default  Node.js readline 
   - basic jest tests
